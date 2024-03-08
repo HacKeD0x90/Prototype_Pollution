@@ -1,2 +1,2 @@
-docker stop docker_proto_1
+docker stop prototype_pollution_proto_1
 
