@@ -1,2 +1,2 @@
-docker stop docker_ssh_1
+docker stop docker_proto_1
 
